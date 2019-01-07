@@ -1,0 +1,94 @@
+Using: /usr/local/synopsys/hspice_2015.06/hspice/linux64/hspice  'InvChainTest.sp' > result.txt
+Using: /usr/local/synopsys/hspice_2015.06/hspice/linux64/hspice  'InvChainTest.sp' > result.txt
+Using: /usr/local/synopsys/hspice_2015.06/hspice/linux64/hspice  'InvChainTest.sp' > result.txt
+Using: /usr/local/synopsys/hspice_2015.06/hspice/linux64/hspice  'InvChainTest.sp' > result.txt
+Using: /usr/local/synopsys/hspice_2015.06/hspice/linux64/hspice  'InvChainTest.sp' > result.txt
+Using: /usr/local/synopsys/hspice_2015.06/hspice/linux64/hspice  'InvChainTest.sp' > result.txt
+Using: /usr/local/synopsys/hspice_2015.06/hspice/linux64/hspice  'InvChainTest.sp' > result.txt
+Using: /usr/local/synopsys/hspice_2015.06/hspice/linux64/hspice  'InvChainTest.sp' > result.txt
+Using: /usr/local/synopsys/hspice_2015.06/hspice/linux64/hspice  'InvChainTest.sp' > result.txt
+Using: /usr/local/synopsys/hspice_2015.06/hspice/linux64/hspice  'InvChainTest.sp' > result.txt
+Using: /usr/local/synopsys/hspice_2015.06/hspice/linux64/hspice  'InvChainTest.sp' > result.txt
+Using: /usr/local/synopsys/hspice_2015.06/hspice/linux64/hspice  'InvChainTest.sp' > result.txt
+Using: /usr/local/synopsys/hspice_2015.06/hspice/linux64/hspice  'InvChainTest.sp' > result.txt
+Using: /usr/local/synopsys/hspice_2015.06/hspice/linux64/hspice  'InvChainTest.sp' > result.txt
+Using: /usr/local/synopsys/hspice_2015.06/hspice/linux64/hspice  'InvChainTest.sp' > result.txt
+Using: /usr/local/synopsys/hspice_2015.06/hspice/linux64/hspice  'InvChainTest.sp' > result.txt
+Using: /usr/local/synopsys/hspice_2015.06/hspice/linux64/hspice  'InvChainTest.sp' > result.txt
+Using: /usr/local/synopsys/hspice_2015.06/hspice/linux64/hspice  'InvChainTest.sp' > result.txt
+Using: /usr/local/synopsys/hspice_2015.06/hspice/linux64/hspice  'InvChainTest.sp' > result.txt
+Using: /usr/local/synopsys/hspice_2015.06/hspice/linux64/hspice  'InvChainTest.sp' > result.txt
+Using: /usr/local/synopsys/hspice_2015.06/hspice/linux64/hspice  'InvChainTest.sp' > result.txt
+Using: /usr/local/synopsys/hspice_2015.06/hspice/linux64/hspice  'InvChainTest.sp' > result.txt
+Using: /usr/local/synopsys/hspice_2015.06/hspice/linux64/hspice  'InvChainTest.sp' > result.txt
+Using: /usr/local/synopsys/hspice_2015.06/hspice/linux64/hspice  'InvChainTest.sp' > result.txt
+Using: /usr/local/synopsys/hspice_2015.06/hspice/linux64/hspice  'InvChainTest.sp' > result.txt
+Using: /usr/local/synopsys/hspice_2015.06/hspice/linux64/hspice  'InvChainTest.sp' > result.txt
+Using: /usr/local/synopsys/hspice_2015.06/hspice/linux64/hspice  'InvChainTest.sp' > result.txt
+Using: /usr/local/synopsys/hspice_2015.06/hspice/linux64/hspice  'InvChainTest.sp' > result.txt
+Using: /usr/local/synopsys/hspice_2015.06/hspice/linux64/hspice  'InvChainTest.sp' > result.txt
+Using: /usr/local/synopsys/hspice_2015.06/hspice/linux64/hspice  'InvChainTest.sp' > result.txt
+Using: /usr/local/synopsys/hspice_2015.06/hspice/linux64/hspice  'InvChainTest.sp' > result.txt
+Using: /usr/local/synopsys/hspice_2015.06/hspice/linux64/hspice  'InvChainTest.sp' > result.txt
+Using: /usr/local/synopsys/hspice_2015.06/hspice/linux64/hspice  'InvChainTest.sp' > result.txt
+Using: /usr/local/synopsys/hspice_2015.06/hspice/linux64/hspice  'InvChainTest.sp' > result.txt
+Using: /usr/local/synopsys/hspice_2015.06/hspice/linux64/hspice  'InvChainTest.sp' > result.txt
+Using: /usr/local/synopsys/hspice_2015.06/hspice/linux64/hspice  'InvChainTest.sp' > result.txt
+Using: /usr/local/synopsys/hspice_2015.06/hspice/linux64/hspice  'InvChainTest.sp' > result.txt
+Using: /usr/local/synopsys/hspice_2015.06/hspice/linux64/hspice  'InvChainTest.sp' > result.txt
+Using: /usr/local/synopsys/hspice_2015.06/hspice/linux64/hspice  'InvChainTest.sp' > result.txt
+Using: /usr/local/synopsys/hspice_2015.06/hspice/linux64/hspice  'InvChainTest.sp' > result.txt
+Using: /usr/local/synopsys/hspice_2015.06/hspice/linux64/hspice  'InvChainTest.sp' > result.txt
+Using: /usr/local/synopsys/hspice_2015.06/hspice/linux64/hspice  'InvChainTest.sp' > result.txt
+[('tphl_inv', '11.2476', 'n'), ('targ', '11.7476', 'n'), ('trig', '500.0000', 'p')]
+[('tphl_inv', '765.0959', 'p'), ('targ', '1.2651', 'n'), ('trig', '500.0000', 'p')]
+[('tphl_inv', '951.6307', 'p'), ('targ', '1.4516', 'n'), ('trig', '500.0000', 'p')]
+[('tphl_inv', '1.1471', 'n'), ('targ', '1.6471', 'n'), ('trig', '500.0000', 'p')]
+[('tphl_inv', '1.3476', 'n'), ('targ', '1.8476', 'n'), ('trig', '500.0000', 'p')]
+[('tphl_inv', '1.5590', 'n'), ('targ', '2.0590', 'n'), ('trig', '500.0000', 'p')]
+[('tphl_inv', '1.7632', 'n'), ('targ', '2.2632', 'n'), ('trig', '500.0000', 'p')]
+[('tphl_inv', '11.1508', 'n'), ('targ', '11.6508', 'n'), ('trig', '500.0000', 'p')]
+[('tphl_inv', '671.9204', 'p'), ('targ', '1.1719', 'n'), ('trig', '500.0000', 'p')]
+[('tphl_inv', '788.1085', 'p'), ('targ', '1.2881', 'n'), ('trig', '500.0000', 'p')]
+[('tphl_inv', '941.3813', 'p'), ('targ', '1.4414', 'n'), ('trig', '500.0000', 'p')]
+[('tphl_inv', '1.1040', 'n'), ('targ', '1.6040', 'n'), ('trig', '500.0000', 'p')]
+[('tphl_inv', '1.2687', 'n'), ('targ', '1.7687', 'n'), ('trig', '500.0000', 'p')]
+[('tphl_inv', '1.4321', 'n'), ('targ', '1.9321', 'n'), ('trig', '500.0000', 'p')]
+[('tphl_inv', '11.0466', 'n'), ('targ', '11.5466', 'n'), ('trig', '500.0000', 'p')]
+[('tphl_inv', '669.8832', 'p'), ('targ', '1.1699', 'n'), ('trig', '500.0000', 'p')]
+[('tphl_inv', '636.2709', 'p'), ('targ', '1.1363', 'n'), ('trig', '500.0000', 'p')]
+[('tphl_inv', '737.9812', 'p'), ('targ', '1.2380', 'n'), ('trig', '500.0000', 'p')]
+[('tphl_inv', '858.7335', 'p'), ('targ', '1.3587', 'n'), ('trig', '500.0000', 'p')]
+[('tphl_inv', '973.0161', 'p'), ('targ', '1.4730', 'n'), ('trig', '500.0000', 'p')]
+[('tphl_inv', '1.0951', 'n'), ('targ', '1.5951', 'n'), ('trig', '500.0000', 'p')]
+[('tphl_inv', '10.9418', 'n'), ('targ', '11.4418', 'n'), ('trig', '500.0000', 'p')]
+[('tphl_inv', '1.0435', 'n'), ('targ', '1.5435', 'n'), ('trig', '500.0000', 'p')]
+[('tphl_inv', '594.0805', 'p'), ('targ', '1.0941', 'n'), ('trig', '500.0000', 'p')]
+[('tphl_inv', '578.7734', 'p'), ('targ', '1.0788', 'n'), ('trig', '500.0000', 'p')]
+[('tphl_inv', '631.5405', 'p'), ('targ', '1.1315', 'n'), ('trig', '500.0000', 'p')]
+[('tphl_inv', '702.4902', 'p'), ('targ', '1.2025', 'n'), ('trig', '500.0000', 'p')]
+[('tphl_inv', '781.3493', 'p'), ('targ', '1.2813', 'n'), ('trig', '500.0000', 'p')]
+[('tphl_inv', '10.8755', 'n'), ('targ', '11.3755', 'n'), ('trig', '500.0000', 'p')]
+[('tphl_inv', '2.9544', 'n'), ('targ', '3.4544', 'n'), ('trig', '500.0000', 'p')]
+[('tphl_inv', '1.4686', 'n'), ('targ', '1.9686', 'n'), ('trig', '500.0000', 'p')]
+[('tphl_inv', '1.0008', 'n'), ('targ', '1.5008', 'n'), ('trig', '500.0000', 'p')]
+[('tphl_inv', '810.6318', 'p'), ('targ', '1.3106', 'n'), ('trig', '500.0000', 'p')]
+[('tphl_inv', '728.5678', 'p'), ('targ', '1.2286', 'n'), ('trig', '500.0000', 'p')]
+[('tphl_inv', '694.5109', 'p'), ('targ', '1.1945', 'n'), ('trig', '500.0000', 'p')]
+[('tphl_inv', '10.8054', 'n'), ('targ', '11.3054', 'n'), ('trig', '500.0000', 'p')]
+[('tphl_inv', '10.8054', 'n'), ('targ', '11.3054', 'n'), ('trig', '500.0000', 'p')]
+[('tphl_inv', '10.8054', 'n'), ('targ', '11.3054', 'n'), ('trig', '500.0000', 'p')]
+[('tphl_inv', '10.8054', 'n'), ('targ', '11.3054', 'n'), ('trig', '500.0000', 'p')]
+[('tphl_inv', '10.8054', 'n'), ('targ', '11.3054', 'n'), ('trig', '500.0000', 'p')]
+[('tphl_inv', '10.8054', 'n'), ('targ', '11.3054', 'n'), ('trig', '500.0000', 'p')]
+[('tphl_inv', '10.8054', 'n'), ('targ', '11.3054', 'n'), ('trig', '500.0000', 'p')]
+RESULT
+[1.1247600000000001e-08, 7.6509590000000001e-10, 9.5163069999999997e-10, 1.1471000000000001e-09, 1.3476e-09, 1.5590000000000001e-09, 1.7632000000000003e-09]
+[1.1150800000000001e-08, 6.7192039999999991e-10, 7.8810850000000002e-10, 9.4138129999999991e-10, 1.1040000000000001e-09, 1.2687e-09, 1.4321e-09]
+[1.1046600000000001e-08, 6.6988319999999995e-10, 6.3627089999999999e-10, 7.3798119999999994e-10, 8.5873350000000007e-10, 9.7301610000000001e-10, 1.0951000000000001e-09]
+[1.0941800000000002e-08, 1.0435000000000002e-09, 5.9408050000000004e-10, 5.7877340000000001e-10, 6.3154049999999992e-10, 7.0249019999999998e-10, 7.8134929999999998e-10]
+[1.0875500000000002e-08, 2.9544000000000005e-09, 1.4686000000000001e-09, 1.0007999999999999e-09, 8.1063179999999998e-10, 7.2856780000000002e-10, 6.9451089999999999e-10]
+[1.0805400000000002e-08, 1.0805400000000002e-08, 1.0805400000000002e-08, 1.0805400000000002e-08, 1.0805400000000002e-08, 1.0805400000000002e-08, 1.0805400000000002e-08]
+[1, 2, 3, 4, 5, 6, 7, 1, 2, 3, 4, 5, 6, 7, 1, 2, 3, 4, 5, 6, 7, 1, 2, 3, 4, 5, 6, 7, 1, 2, 3, 4, 5, 6, 7, 1, 2, 3, 4, 5, 6, 7]
+[11, 11, 11, 11, 11, 11, 11, 9, 9, 9, 9, 9, 9, 9, 7, 7, 7, 7, 7, 7, 7, 5, 5, 5, 5, 5, 5, 5, 3, 3, 3, 3, 3, 3, 3, 1, 1, 1, 1, 1, 1, 1]
+(24, 5, 4)
